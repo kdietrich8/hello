@@ -10,7 +10,8 @@
 
 int main ( int argc, char **argv) {
 
-    printf("Koen\n");
+    printf("Koen D --\n");
+    printf("Computer Engineering\n");
 
     return 0;
 
